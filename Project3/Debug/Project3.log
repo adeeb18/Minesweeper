@@ -1,0 +1,17 @@
+﻿  Board.cpp
+C:\Users\adeeb\source\repos\Project3\Project3\Board.cpp(20,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\adeeb\source\repos\Project3\Project3\Board.cpp(21,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\adeeb\source\repos\Project3\Project3\Board.cpp(39,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\adeeb\source\repos\Project3\Project3\Board.cpp(75,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adeeb\source\repos\Project3\Project3\Board.cpp(76,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adeeb\source\repos\Project3\Project3\Board.cpp(84,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adeeb\source\repos\Project3\Project3\Board.cpp(89,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adeeb\source\repos\Project3\Project3\Board.cpp(96,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adeeb\source\repos\Project3\Project3\Board.cpp(105,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adeeb\source\repos\Project3\Project3\Board.cpp(115,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\adeeb\source\repos\Project3\Project3\Board.cpp(209,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adeeb\source\repos\Project3\Project3\Board.cpp(210,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adeeb\source\repos\Project3\Project3\Board.cpp(216,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adeeb\source\repos\Project3\Project3\Board.cpp(217,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\adeeb\source\repos\Project3\Project3\Board.cpp(478,22): warning C4018: '<': signed/unsigned mismatch
+  Project3.vcxproj -> C:\Users\adeeb\source\repos\Project3\Debug\Project3.exe
